@@ -1,0 +1,12 @@
+# Intellij IDEA & VS Code
+.idea
+*.iml
+.vscode
+
+# Error logs
+npm-debug.log
+yarn-error.log
+
+# Bundle & Node modules
+node_modules/
+build/

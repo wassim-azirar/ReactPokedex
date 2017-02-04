@@ -1,0 +1,8 @@
+<div class="modal">
+    <img src="src/assets/pokemon.png"
+         onClick="() => this.hello()" />
+
+    <div class="wrap">
+        MODAL
+    </div>
+</div>

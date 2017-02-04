@@ -1,0 +1,8 @@
+<rt-import name="default" as="modal" from="./modal" />
+<div>
+    This is main
+    <button onClick="()=>this.add()">Add</button>
+    <hr />
+    <modal></modal>
+    <hr />
+</div>
