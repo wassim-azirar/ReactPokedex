@@ -1,29 +1,30 @@
 {
-    "name": "Realytics",
-    "scripts": {
-        "start": "webpack-dev-server --output-public-path=/build/"
-    },
-    "dependencies": {
-        "jquery": "^3.1.1",
-        "react": "^15.4.2",
-        "react-dom": "^15.4.2"
-    },
-    "devDependencies": {
-        "@types/react": "^15.0.6",
-        "@types/react-dom": "^0.14.22",
-        "babel": "6.5.2",
-        "babel-core": "6.22.1",
-        "babel-loader": "6.2.10",
-        "babel-preset-es2015": "6.22.0",
-        "babel-preset-react": "6.22.0",
-        "css-loader": "0.26.1",
-        "react-templates": "0.6.1",
-        "react-templates-loader": "0.6.1",
-        "sass-loader": "4.1.1",
-        "style-loader": "0.13.1",
-        "url-loader": "0.5.7",
-        "webpack": "^2.2.1",
-        "webpack-dev-server": "2.3.0",
-        "yarn": "^0.19.1"
-    }
+  "name": "ReactPokedex",
+  "scripts": {
+    "start": "webpack-dev-server --output-public-path=/build/"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.6",
+    "@types/react-dom": "^0.14.22",
+    "babel": "6.5.2",
+    "babel-core": "6.22.1",
+    "babel-loader": "6.2.10",
+    "babel-preset-es2015": "6.22.0",
+    "babel-preset-react": "6.22.0",
+    "css-loader": "0.26.1",
+    "lodash": "4.17.4",
+    "react-templates": "0.6.1",
+    "react-templates-loader": "0.6.1",
+    "sass-loader": "4.1.1",
+    "style-loader": "0.13.1",
+    "url-loader": "0.5.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "2.3.0",
+    "yarn": "^0.19.1"
+  }
 }
